@@ -24,9 +24,9 @@ Holds shorter-term funds, especially those which may be lower in value or need a
 
 
 
-### Platforms
+### Community
 
-Holds platform funds, used to support contributors of the Zelix ecosystem. Spent at the discretion of the team.
+Holds Community funds, used to support contributors of the Zelix ecosystem. Spent at the discretion of the team.
 
 
 
