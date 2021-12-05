@@ -16,7 +16,9 @@ Collects revenue in tokens. Holds very short-term funds, especially those which 
 
 ### Core
 
-Holds shorter-term funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform. Distributes to Treasury, Community and Rewards Accounts.
+Holds shorter-term funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform.&#x20;
+
+**Distributes to Treasury, Community and Rewards Accounts.**
 
 
 
@@ -34,7 +36,7 @@ Holds Community funds, used to support contributors of the Zelix ecosystem. Spen
 
 ### Rewards
 
-Distributes staking rewards
+Distributes rewards Zelix stake holders.
 
 
 
