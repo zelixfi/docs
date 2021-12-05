@@ -16,7 +16,7 @@ Collects revenue in tokens. Holds very short-term funds, especially those which 
 
 ### Core
 
-Holds shorter-term funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform.
+Holds shorter-term funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform. Distributes to Treasury, Community and Rewards Accounts.
 
 
 
@@ -40,11 +40,11 @@ Distributes staking rewards
 
 ### Innovation
 
-Holds innovation funds, used to support initiatives in Avalanche DeFi and Zelix ecosystems. Spent at the discretion of the team. Deployed at mint.
+Holds innovation funds, used to support initiatives in Avalanche DeFi and Zelix ecosystems. Spent at the discretion of the team. **Deployed at mint.**
 
 
 
 ### Team
 
-Holds team funds. Deployed at mint.
+Holds team funds. **Deployed at mint.**
 
