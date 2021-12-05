@@ -1,5 +1,7 @@
 ---
-description: Easily stake in complex strategies
+description: >-
+  Wealth management reimagined. Earn with your digital assets using our various
+  strategies.
 ---
 
 # Welcome
