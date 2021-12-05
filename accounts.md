@@ -6,10 +6,6 @@ description: The Zelix approach to treasury and listing of related accounts
 
 ## Accounts
 
-### Treasury
-
-Multisig account that Holds long-term treasury funds.&#x20;
-
 
 
 ### Collector
@@ -21,6 +17,12 @@ Collects revenue in tokens. Holds very short-term funds, especially those which 
 ### Core
 
 Holds shorter-term funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform.
+
+
+
+### Treasury
+
+Multisig account that Holds long-term treasury funds.&#x20;
 
 
 
