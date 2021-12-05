@@ -18,7 +18,7 @@ Collects revenue in tokens. Holds very short-term funds, especially those which 
 
 
 
-### Distributor
+### Core
 
 Holds shorter-term funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform.
 
