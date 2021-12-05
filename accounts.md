@@ -40,11 +40,11 @@ Distributes staking rewards
 
 ### Innovation
 
-Holds innovation funds, used to support initiatives in Avalanche DeFi and Zelix ecosystems. Spent at the discretion of the team.
+Holds innovation funds, used to support initiatives in Avalanche DeFi and Zelix ecosystems. Spent at the discretion of the team. Deployed at mint.
 
 
 
 ### Team
 
-Holds team funds
+Holds team funds. Deployed at mint.
 
