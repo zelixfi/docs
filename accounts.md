@@ -28,13 +28,23 @@ Multisig account that Holds long-term treasury funds.&#x20;
 
 ### Community
 
-Holds Community funds, used to support contributors of the Zelix ecosystem. Spent at the discretion of the team.
+Holds Community funds, used to support contributors of the Zelix ecosystem. Spent at the discretion of the team. Used for marketing, development.
+
+
+
+### Rewards
+
+Distributes staking rewards
 
 
 
 ### Innovation
 
-Holds ecosystem funds, used to support initiatives in Avalanche DeFi and Zelix ecosystems. Spent at the discretion of the team.
+Holds innovation funds, used to support initiatives in Avalanche DeFi and Zelix ecosystems. Spent at the discretion of the team.
 
 
+
+### Team
+
+Holds team funds
 
